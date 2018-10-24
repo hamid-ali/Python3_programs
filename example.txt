@@ -1,0 +1,3 @@
+Now its done for r+ and w+ Ok checkedline1 
+line2
+line3
