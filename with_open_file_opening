@@ -1,0 +1,10 @@
+In this we dont need to close file explicitly.
+In python shell:--
+>>> with open("fruits.txt","a+") as file:
+...     file.seek(2)
+...     content=file.readline()
+...     file.write("Pineapple")
+...
+2
+9
+>>> content
