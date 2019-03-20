@@ -2,6 +2,7 @@
 This script creates an empty file.
 """
 #filename = input("Enter name of file u want to create")
+# strftime.org is site for tmie formatings
 import datetime
 filename =datetime.datetime.now()
 #create empty file
